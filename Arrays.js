@@ -22,7 +22,7 @@ let arr2 = [7,8,9]
 // console.log(arr1)
 
 
-let arr1 = [2,3,4,5,6]
+let arr1 = [2,3,4,5,6,8,9,10]
 // let newArr = arr1.shift(1)
 // let newArr = arr1.unshift(1)
-console.log(arr1.at(3))
+// console.log(arr1.at(3))
